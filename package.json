@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dp-services-ctl",
+  "name": "dp-services-ctl",
   "version": "0.12.0",
   "description": "Control Dash Platform services using JavaScript and Docker",
   "engines": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashevo/js-dp-services-ctl.git"
+    "url": "git+https://github.com/bitgreen/dp-services-ctl.git"
   },
   "contributors": [
     {
